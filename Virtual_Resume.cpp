@@ -2,6 +2,7 @@
 #include<fstream>
 #include<string>
 using namespace std;
+/*  copy this file in the folder where you have your text files for better Working*/ 
 
 class Resume
 {
